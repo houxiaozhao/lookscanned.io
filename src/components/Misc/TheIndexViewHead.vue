@@ -11,14 +11,14 @@
 
     <NavigateToScan />
 
-    <n-grid :x-gap="20" :y-gap="0" :cols="2">
+    <!-- <n-grid :x-gap="20" :y-gap="0" :cols="2">
       <n-grid-item>
         <NavigateToGitHub />
       </n-grid-item>
       <n-grid-item>
         <NavigateToInBrowserApp />
       </n-grid-item>
-    </n-grid>
+    </n-grid> -->
   </n-space>
 </template>
 
